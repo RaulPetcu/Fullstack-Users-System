@@ -1,5 +1,5 @@
 # Fullstack-Users-System
-A fullstack application made with Spring Boot and React which implements CRUD operation over a MySQL database of users.
+A fullstack application made with Spring Boot and React which implements CRUD operations over a MySQL database of users.
 
 # GET all users
 ![Screenshot from 2023-03-11 18-23-36](https://user-images.githubusercontent.com/79147895/224496036-fe826551-90d7-4b01-a546-3c3062cf5f7f.png)
