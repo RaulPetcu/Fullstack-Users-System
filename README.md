@@ -1,20 +1,13 @@
 # Fullstack-Users-System
 A fullstack application made with Spring Boot and React which implements CRUD operation over a MySQL database of users.
 
-# GET users
+# GET all users
+![Screenshot from 2023-03-11 18-23-36](https://user-images.githubusercontent.com/79147895/224496036-fe826551-90d7-4b01-a546-3c3062cf5f7f.png)
 
-![Screenshot from 2023-03-11 18-12-37](https://user-images.githubusercontent.com/79147895/224495393-8bc43d1e-8363-4660-b5c6-7b33b7d16d3f.png)
+# GET specific user![Screenshot from 2023-03-11 18-23-56](https://user-images.githubusercontent.com/79147895/224496048-1689956e-a268-4af0-a2df-a76c2db298a2.png)
 
-# GET specific user
+# UPDATE user![Screenshot from 2023-03-11 18-24-05](https://user-images.githubusercontent.com/79147895/224496058-d5463961-d71e-459e-8b91-f9373ef6a766.png)
 
-![Screenshot from 2023-03-11 18-12-58](https://user-images.githubusercontent.com/79147895/224495433-8ec999a0-1c84-4a9e-9b29-4cb864ff7854.png)
-
-# UPDATE user
-
-![Screenshot from 2023-03-11 18-13-20](https://user-images.githubusercontent.com/79147895/224495452-54f2d923-5229-4f42-ba79-19cc16acb218.png)
-
-# POST user
-
-![Screenshot from 2023-03-11 18-13-44](https://user-images.githubusercontent.com/79147895/224495503-edd06117-ebce-47fa-9f9a-8d1d436419bd.png)
+# POST user![Screenshot from 2023-03-11 18-24-20](https://user-images.githubusercontent.com/79147895/224496065-2a46ba8a-77a8-4c01-ad0e-6341204352ba.png)
 
 # DELETE user - By pressing the DELETE button
